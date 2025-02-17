@@ -56,6 +56,9 @@
          "config": {
             "max_points": 300
          }
+      },
+      {
+         "module": "sensors/storage_space.js"
       }
    ],
    "widgets": [
